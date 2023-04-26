@@ -1,0 +1,66 @@
+name,propername,code,count,description,url,type
+arecibo,Arecibo Observatory,1,0,ERROR arecibo : https://www.naic.edu/ao/landing/sitemap.xml Sitemap URL is 404,https://www.naic.edu/ao/landing/sitemap.xml,sitemap
+aws,AWS OpenData,1,0,ERROR aws : https://aws.amazon.com/opendata/sitemap.xml Sitemap URL is 404,https://aws.amazon.com/opendata/sitemap.xml,sitemap
+cyvers,Cyverse,0,1,VALID cyvers : https://cyverse.org/sitemap.xml with 1 sitemap URL(s),https://cyverse.org/sitemap.xml,sitemap
+drp,Digital Rock Portal,0,158,VALID drp : https://www.digitalrocksportal.org/sitemap.xml with 1 sitemap URL(s),https://www.digitalrocksportal.org/sitemap.xml,sitemap
+dryad,Dryad,0,52494,VALID dryad : https://datadryad.org/sitemap.xml with 53 sitemap URL(s),https://datadryad.org/sitemap.xml,sitemap
+matcommons,Material Commons,1,0,"ERROR making request, no further information at this time",https://materialscommons.org/sitemap.xml,sitemap
+mdf,Material Data Facility,1,0,ERROR mdf : https://materialsdatafacility.org/sitemap.xml Sitemap URL is 404,https://materialsdatafacility.org/sitemap.xml,sitemap
+neon,Neon Science,0,1373,VALID neon : https://www.neonscience.org/sitemap.xml with 1 sitemap URL(s),https://www.neonscience.org/sitemap.xml,sitemap
+abacus,Dataverse Abacus,0,2340,VALID abacus : http://abacus.library.ubc.ca/sitemap.xml with 1 sitemap URL(s),http://abacus.library.ubc.ca/sitemap.xml,sitemap
+acss,Dataverse Arab Council for the Social Scienes (ACSS),1,0,ERROR acss : http://dataverse.theacss.org/sitemap.xml Sitemap URL is 404,http://dataverse.theacss.org/sitemap.xml,sitemap
+adf,Arca Dados Fiocrus - Dataverse,0,793,VALID adf : http://dadosdepesquisa.fiocruz.br/sitemap.xml with 1 sitemap URL(s),http://dadosdepesquisa.fiocruz.br/sitemap.xml,sitemap
+asulrdr,Arizona State University (ASU) Library Research Data Repository - Dataverse,0,74,VALID asulrdr : http://dataverse.asu.edu/sitemap.xml with 1 sitemap URL(s),http://dataverse.asu.edu/sitemap.xml,sitemap
+aussda,Austrian Social Science Data Archive (AUSSDA) - Dataverse,1,0,"ERROR making request, no further information at this time",http://data.aussda.at/sitemap.xml,sitemap
+borealis,Borealis - Dataverse,0,9353,VALID borealis : http://borealisdata.ca/sitemap.xml with 1 sitemap URL(s),http://borealisdata.ca/sitemap.xml,sitemap
+cifor,Center for International Forestry Research (CIFOR) - Dataverse,1,0,ERROR cifor : http://data.cifor.org/sitemap.xml Sitemap URL is 404,http://data.cifor.org/sitemap.xml,sitemap
+cimmyt,International Maize and Wheat Improvement Center (CIMMYT) - Dataverse,0,959,VALID cimmyt : http://data.cimmyt.org/sitemap.xml with 1 sitemap URL(s),http://data.cimmyt.org/sitemap.xml,sitemap
+cora,Catalan Open Research Data (CORA) - Dataverse,0,445,VALID cora : http://dataverse.csuc.cat/sitemap.xml with 1 sitemap URL(s),http://dataverse.csuc.cat/sitemap.xml,sitemap
+crossda,Croatian Social Science Data Archive (CROSSDA) - Dataverse,1,0,ERROR crossda : http://data.crossda.hr/sitemap.xml Sitemap URL is 404,http://data.crossda.hr/sitemap.xml,sitemap
+cuhk,The Chinese University of Hong Kong Library Research Data Repository (CUHK) - Dataverse,0,209,VALID cuhk : http://researchdata.cuhk.edu.hk/sitemap.xml with 1 sitemap URL(s),http://researchdata.cuhk.edu.hk/sitemap.xml,sitemap
+tdi,Dartmouth Institute for Health Policy and Clinical Practice (TDI) - Dataverse,0,41,VALID tdi : http://dataverse.dartmouth.edu/sitemap.xml with 1 sitemap URL(s),http://dataverse.dartmouth.edu/sitemap.xml,sitemap
+darus,Data Repository University of Stuttgart (DaRUS) - Dataverse,1,0,ERROR darus : http://darus.uni-stuttgart.de/sitemap.xml reading sitemap XML,http://darus.uni-stuttgart.de/sitemap.xml,sitemap
+irs,DataSuds Institut de recherche pour le développement (IRS) - Dataverse,0,340,VALID irs : http://dataverse.ird.fr/sitemap.xml with 1 sitemap URL(s),http://dataverse.ird.fr/sitemap.xml,sitemap
+sceincespo,SceincesPo - Dataverse,1,0,ERROR sceincespo : https://data.sciencespo.fr/sitemap.xml Sitemap URL is 404,https://data.sciencespo.fr/sitemap.xml,sitemap
+edatos,Edatos - Dataverse,0,720,VALID edatos : http://edatos.consorciomadrono.es/sitemap.xml with 1 sitemap URL(s),http://edatos.consorciomadrono.es/sitemap.xml,sitemap
+netherland,Netherland - Dataverse,0,6402,VALID netherland : http://dataverse.nl/sitemap.xml with 1 sitemap URL(s),http://dataverse.nl/sitemap.xml,sitemap
+norway,Norway - Dataverse,0,1280,VALID norway : http://dataverse.no/sitemap.xml with 1 sitemap URL(s),http://dataverse.no/sitemap.xml,sitemap
+ntu,Nanyang Technological University Singapore (NTU) - Dataverse,0,2008,VALID ntu : http://researchdata.ntu.edu.sg/sitemap.xml with 1 sitemap URL(s),http://researchdata.ntu.edu.sg/sitemap.xml,sitemap
+fiu,Florida International University (FIU) Research Data Portal - Dataverse,1,0,ERROR fiu : http://dataverse.fiu.edu/sitemap.xml Sitemap URL is 404,http://dataverse.fiu.edu/sitemap.xml,sitemap
+gro,Gottingen Research Online - Dataverse,1,0,ERROR gro : http://data.goettingen-research-online.de/sitemap.xml Sitemap URL is 404,http://data.goettingen-research-online.de/sitemap.xml,sitemap
+harvard,University of Harvard - Dataverse,0,91263,VALID harvard : http://dataverse.harvard.edu/sitemap.xml with 1 sitemap URL(s),http://dataverse.harvard.edu/sitemap.xml,sitemap
+hord,Heidelberg Open Research Data - Dataverse,0,545,VALID hord : http://heidata.uni-heidelberg.de/sitemap.xml with 1 sitemap URL(s),http://heidata.uni-heidelberg.de/sitemap.xml,sitemap
+ibict,Instituto Brasileiro de Informação em Ciencia e Tecnologia (IBICT) - Dataverse,1,0,ERROR ibict : http://repositoriopesquisas.ibict.br/sitemap.xml Sitemap URL is 404,http://repositoriopesquisas.ibict.br/sitemap.xml,sitemap
+icrisat,Science of discovery to science of delivery (ICRISAT) - Dataverse,0,434,VALID icrisat : http://dataverse.icrisat.org/sitemap.xml with 1 sitemap URL(s),http://dataverse.icrisat.org/sitemap.xml,sitemap
+ifdc,International Fertilizer Development Center (IFDC) - Dataverse,0,404,VALID ifdc : http://dataverse.ifdc.org/sitemap.xml with 1 sitemap URL(s),http://dataverse.ifdc.org/sitemap.xml,sitemap
+ifsttar,"French Institute of Science and Technology for Transport, Development and Networks (IFSTTAR) -m Dataverse",1,0,ERROR ifsttar : http://research-data.ifsttar.fr/sitemap.xml Sitemap URL is 404,http://research-data.ifsttar.fr/sitemap.xml,sitemap
+iisg,International Institute of Social History (IISG) - Dataverse,0,334,VALID iisg : http://datasets.iisg.amsterdam/sitemap.xml with 1 sitemap URL(s),http://datasets.iisg.amsterdam/sitemap.xml,sitemap
+irl,Institute of Russian Literature - Dataverse,1,0,ERROR irl : http://dataverse.pushdom.ru/sitemap.xml Sitemap URL is 404,http://dataverse.pushdom.ru/sitemap.xml,sitemap
+ipc,International Potato Center - Dataverse,1,0,ERROR ipc : http://data.cipotato.org/sitemap.xml Sitemap URL is 404,http://data.cipotato.org/sitemap.xml,sitemap
+iit,Italian Institute of Technology (IIT) - Dataverse,0,116,VALID iit : http://dataverse.iit.it/sitemap.xml with 1 sitemap URL(s),http://dataverse.iit.it/sitemap.xml,sitemap
+hopkins,Johns Hopkins University - Dataverse,1,0,ERROR hopkins : http://archive.data.jhu.edu/sitemap.xml Sitemap URL is 404,http://archive.data.jhu.edu/sitemap.xml,sitemap
+julich,Forschungszentrum Julich - Dataverse,0,121,VALID julich : http://data.fz-juelich.de/sitemap.xml with 1 sitemap URL(s),http://data.fz-juelich.de/sitemap.xml,sitemap
+uva,University of Virginia (UVA) - Dataverse,0,176,VALID uva : http://dataverse.lib.virginia.edu/sitemap.xml with 1 sitemap URL(s),http://dataverse.lib.virginia.edu/sitemap.xml,sitemap
+rin,Repositori Ilmiah Nasional (RIN) - Dataverse,1,0,"ERROR making request, no further information at this time",http://data.lipi.go.id/sitemap.xml,sitemap
+lida,Lithuanian Data Archive for Social Sciences and Humanities (LiDA) - Dataverse,1,0,ERROR lida : http://lida.dataverse.lt/sitemap.xml reading sitemap XML,http://lida.dataverse.lt/sitemap.xml,sitemap
+icarda,International Cente  r for Agricultural Research in Dry Ares (ICARDA) - Dataverse,1,0,ERROR icarda : http://data.mel.cgiar.org/sitemap.xml Sitemap URL is 404,http://data.mel.cgiar.org/sitemap.xml,sitemap
+nioz,Royal Netherlands Ins  titute for Sea Research (NIOZ) - Dataverse,1,0,ERROR nioz : http://dataverse.nioz.nl/sitemap.xml Sitemap URL is 404,http://dataverse.nioz.nl/sitemap.xml,sitemap
+ucdl,Universite catholique de Louvain - Dataverse,1,0,ERROR ucdl : http://dataverse.uclouvain.be/sitemap.xml Sitemap URL is 404,http://dataverse.uclouvain.be/sitemap.xml,sitemap
+ofd,Open Forest Data - Dataverse,1,0,ERROR ofd : http://dataverse.openforestdata.pl/sitemap.xml Sitemap URL is 404,http://dataverse.openforestdata.pl/sitemap.xml,sitemap
+peking,Peking University - Dataverse,1,0,ERROR peking : http://opendata.pku.edu.cn/sitemap.xml Sitemap URL is 404,http://opendata.pku.edu.cn/sitemap.xml,sitemap
+pucdp,Pontificia Universidad Catolica del Peru - Dataverse,0,46,VALID pucdp : http://datos.pucp.edu.pe/sitemap.xml with 1 sitemap URL(s),http://datos.pucp.edu.pe/sitemap.xml,sitemap
+qdr,Qualitative Data Repository - Dataverse,0,140,VALID qdr : http://data.qdr.syr.edu/sitemap.xml with 1 sitemap URL(s),http://data.qdr.syr.edu/sitemap.xml,sitemap
+chile,Repositorio de datos de investigación de la Universidad de Chile - Dataverse,0,77,VALID chile : http://datos.uchile.cl/sitemap.xml with 1 sitemap URL(s),http://datos.uchile.cl/sitemap.xml,sitemap
+rosario,Repositorio de Datos de Investigación Universidad del Rosario - Dataverse,0,73,VALID rosario : http://research-data.urosario.edu.co/sitemap.xml with 1 sitemap URL(s),http://research-data.urosario.edu.co/sitemap.xml,sitemap
+pesquisa,Repositorios Piloto da Rede Nacional de Ensino e Pesquisa - Dataverse,0,11,VALID pesquisa : http://dadosabertos.rnp.br/sitemap.xml with 1 sitemap URL(s),http://dadosabertos.rnp.br/sitemap.xml,sitemap
+rsu,Riga Stradins University (RSU) - Dataverse,1,0,ERROR rsu : http://dataverse.rsu.lv/sitemap.xml Sitemap URL is 404,http://dataverse.rsu.lv/sitemap.xml,sitemap
+tdl,Texas Data Library (TDL) Repository - Dataverse,0,2005,VALID tdl : http://dataverse.tdl.org/sitemap.xml with 1 sitemap URL(s),http://dataverse.tdl.org/sitemap.xml,sitemap
+ucla,University of California Los Angeles (UCLA) - Dataverse,1,0,"ERROR making request, no further information at this time",http://dataverse.ucla.edu/sitemap.xml,sitemap
+unb,University of New Brunswick (UNB) Libraries - Dataverse,1,0,ERROR unb : http://dataverse.lib.unb.ca/sitemap.xml Sitemap URL is 404,http://dataverse.lib.unb.ca/sitemap.xml,sitemap
+unc,University of North Carolina (UNC) - Dataverse,0,4868,VALID unc : http://dataverse.unc.edu/sitemap.xml with 1 sitemap URL(s),http://dataverse.unc.edu/sitemap.xml,sitemap
+manitoba,University of Manitoba - Dataverse,0,90,VALID manitoba : http://dataverse.lib.umanitoba.ca/sitemap.xml with 1 sitemap URL(s),http://dataverse.lib.umanitoba.ca/sitemap.xml,sitemap
+milano,Universita degli Studi di Milano - Dataverse,1,0,ERROR milano : http://dataverse.unimi.it/sitemap.xml Sitemap URL is 404,http://dataverse.unimi.it/sitemap.xml,sitemap
+uwi,University of the West Indies (UWI) - Dataverse,1,0,"ERROR making request, no further information at this time",http://dataverse.sta.uwi.edu/sitemap.xml,sitemap
+vtti,Virginia Tech Transportation Institute (VTTI) - Dataverse,1,0,ERROR vtti : http://dataverse.vtti.vt.edu/sitemap.xml Sitemap URL is 404,http://dataverse.vtti.vt.edu/sitemap.xml,sitemap
+wardr,World Agroforestry Research Data Repository - Dataverse,1,0,ERROR wardr : http://data.worldagroforestry.org/sitemap.xml Sitemap URL is 404,http://data.worldagroforestry.org/sitemap.xml,sitemap
+yalenus,Yale-NUS College - Dataverse,1,0,"ERROR making request, no further information at this time",http://dataverse.yale-nus.edu.sg/sitemap.xml,sitemap

@@ -1,0 +1,34 @@
+name,propername,code,count,description,url,type
+cyvers,Cyverse,0,1,VALID cyvers : https://cyverse.org/sitemap.xml with 1 sitemap URL(s),https://cyverse.org/sitemap.xml,sitemap
+drp,Digital Rock Portal,0,158,VALID drp : https://www.digitalrocksportal.org/sitemap.xml with 1 sitemap URL(s),https://www.digitalrocksportal.org/sitemap.xml,sitemap
+dryad,Dryad,0,52494,VALID dryad : https://datadryad.org/sitemap.xml with 53 sitemap URL(s),https://datadryad.org/sitemap.xml,sitemap
+neon,Neon Science,0,1373,VALID neon : https://www.neonscience.org/sitemap.xml with 1 sitemap URL(s),https://www.neonscience.org/sitemap.xml,sitemap
+abacus,Dataverse Abacus,0,2340,VALID abacus : http://abacus.library.ubc.ca/sitemap.xml with 1 sitemap URL(s),http://abacus.library.ubc.ca/sitemap.xml,sitemap
+adf,Arca Dados Fiocrus - Dataverse,0,793,VALID adf : http://dadosdepesquisa.fiocruz.br/sitemap.xml with 1 sitemap URL(s),http://dadosdepesquisa.fiocruz.br/sitemap.xml,sitemap
+asulrdr,Arizona State University (ASU) Library Research Data Repository - Dataverse,0,74,VALID asulrdr : http://dataverse.asu.edu/sitemap.xml with 1 sitemap URL(s),http://dataverse.asu.edu/sitemap.xml,sitemap
+borealis,Borealis - Dataverse,0,9353,VALID borealis : http://borealisdata.ca/sitemap.xml with 1 sitemap URL(s),http://borealisdata.ca/sitemap.xml,sitemap
+cimmyt,International Maize and Wheat Improvement Center (CIMMYT) - Dataverse,0,959,VALID cimmyt : http://data.cimmyt.org/sitemap.xml with 1 sitemap URL(s),http://data.cimmyt.org/sitemap.xml,sitemap
+cora,Catalan Open Research Data (CORA) - Dataverse,0,445,VALID cora : http://dataverse.csuc.cat/sitemap.xml with 1 sitemap URL(s),http://dataverse.csuc.cat/sitemap.xml,sitemap
+cuhk,The Chinese University of Hong Kong Library Research Data Repository (CUHK) - Dataverse,0,209,VALID cuhk : http://researchdata.cuhk.edu.hk/sitemap.xml with 1 sitemap URL(s),http://researchdata.cuhk.edu.hk/sitemap.xml,sitemap
+tdi,Dartmouth Institute for Health Policy and Clinical Practice (TDI) - Dataverse,0,41,VALID tdi : http://dataverse.dartmouth.edu/sitemap.xml with 1 sitemap URL(s),http://dataverse.dartmouth.edu/sitemap.xml,sitemap
+irs,DataSuds Institut de recherche pour le développement (IRS) - Dataverse,0,340,VALID irs : http://dataverse.ird.fr/sitemap.xml with 1 sitemap URL(s),http://dataverse.ird.fr/sitemap.xml,sitemap
+edatos,Edatos - Dataverse,0,720,VALID edatos : http://edatos.consorciomadrono.es/sitemap.xml with 1 sitemap URL(s),http://edatos.consorciomadrono.es/sitemap.xml,sitemap
+netherland,Netherland - Dataverse,0,6402,VALID netherland : http://dataverse.nl/sitemap.xml with 1 sitemap URL(s),http://dataverse.nl/sitemap.xml,sitemap
+norway,Norway - Dataverse,0,1280,VALID norway : http://dataverse.no/sitemap.xml with 1 sitemap URL(s),http://dataverse.no/sitemap.xml,sitemap
+ntu,Nanyang Technological University Singapore (NTU) - Dataverse,0,2008,VALID ntu : http://researchdata.ntu.edu.sg/sitemap.xml with 1 sitemap URL(s),http://researchdata.ntu.edu.sg/sitemap.xml,sitemap
+harvard,University of Harvard - Dataverse,0,91263,VALID harvard : http://dataverse.harvard.edu/sitemap.xml with 1 sitemap URL(s),http://dataverse.harvard.edu/sitemap.xml,sitemap
+hord,Heidelberg Open Research Data - Dataverse,0,545,VALID hord : http://heidata.uni-heidelberg.de/sitemap.xml with 1 sitemap URL(s),http://heidata.uni-heidelberg.de/sitemap.xml,sitemap
+icrisat,Science of discovery to science of delivery (ICRISAT) - Dataverse,0,434,VALID icrisat : http://dataverse.icrisat.org/sitemap.xml with 1 sitemap URL(s),http://dataverse.icrisat.org/sitemap.xml,sitemap
+ifdc,International Fertilizer Development Center (IFDC) - Dataverse,0,404,VALID ifdc : http://dataverse.ifdc.org/sitemap.xml with 1 sitemap URL(s),http://dataverse.ifdc.org/sitemap.xml,sitemap
+iisg,International Institute of Social History (IISG) - Dataverse,0,334,VALID iisg : http://datasets.iisg.amsterdam/sitemap.xml with 1 sitemap URL(s),http://datasets.iisg.amsterdam/sitemap.xml,sitemap
+iit,Italian Institute of Technology (IIT) - Dataverse,0,116,VALID iit : http://dataverse.iit.it/sitemap.xml with 1 sitemap URL(s),http://dataverse.iit.it/sitemap.xml,sitemap
+julich,Forschungszentrum Julich - Dataverse,0,121,VALID julich : http://data.fz-juelich.de/sitemap.xml with 1 sitemap URL(s),http://data.fz-juelich.de/sitemap.xml,sitemap
+uva,University of Virginia (UVA) - Dataverse,0,176,VALID uva : http://dataverse.lib.virginia.edu/sitemap.xml with 1 sitemap URL(s),http://dataverse.lib.virginia.edu/sitemap.xml,sitemap
+pucdp,Pontificia Universidad Catolica del Peru - Dataverse,0,46,VALID pucdp : http://datos.pucp.edu.pe/sitemap.xml with 1 sitemap URL(s),http://datos.pucp.edu.pe/sitemap.xml,sitemap
+qdr,Qualitative Data Repository - Dataverse,0,140,VALID qdr : http://data.qdr.syr.edu/sitemap.xml with 1 sitemap URL(s),http://data.qdr.syr.edu/sitemap.xml,sitemap
+chile,Repositorio de datos de investigación de la Universidad de Chile - Dataverse,0,77,VALID chile : http://datos.uchile.cl/sitemap.xml with 1 sitemap URL(s),http://datos.uchile.cl/sitemap.xml,sitemap
+rosario,Repositorio de Datos de Investigación Universidad del Rosario - Dataverse,0,73,VALID rosario : http://research-data.urosario.edu.co/sitemap.xml with 1 sitemap URL(s),http://research-data.urosario.edu.co/sitemap.xml,sitemap
+pesquisa,Repositorios Piloto da Rede Nacional de Ensino e Pesquisa - Dataverse,0,11,VALID pesquisa : http://dadosabertos.rnp.br/sitemap.xml with 1 sitemap URL(s),http://dadosabertos.rnp.br/sitemap.xml,sitemap
+tdl,Texas Data Library (TDL) Repository - Dataverse,0,2005,VALID tdl : http://dataverse.tdl.org/sitemap.xml with 1 sitemap URL(s),http://dataverse.tdl.org/sitemap.xml,sitemap
+unc,University of North Carolina (UNC) - Dataverse,0,4868,VALID unc : http://dataverse.unc.edu/sitemap.xml with 1 sitemap URL(s),http://dataverse.unc.edu/sitemap.xml,sitemap
+manitoba,University of Manitoba - Dataverse,0,90,VALID manitoba : http://dataverse.lib.umanitoba.ca/sitemap.xml with 1 sitemap URL(s),http://dataverse.lib.umanitoba.ca/sitemap.xml,sitemap
