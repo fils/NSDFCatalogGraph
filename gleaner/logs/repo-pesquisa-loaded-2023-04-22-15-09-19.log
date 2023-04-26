@@ -1,0 +1,4 @@
+level=info msg="Queuing URLs for pesquisa"
+level=info msg="URL Count 11"
+level=info contentType="script[type='application/ld+json']" url="https://vitrinedadosabertos.rnp.br/dataset.xhtml?persistentId=doi:10.34841/rnp/RILP3P"
+level=info contentType="script[type='application/ld+json']" url="https://vitrinedadosabertos.rnp.br/dataset.xhtml?persistentId=doi:10.34841/rnp/ST0DWT"

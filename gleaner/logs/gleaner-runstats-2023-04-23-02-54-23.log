@@ -1,0 +1,363 @@
+RunStats:
+  Start: 2023-04-22 15:07:24.679823935 -0500 CDT m=+1.069329042
+  Repositories:
+    - name: mdf
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: pucdp
+      SitemapCount: 46 
+      SitemapHttpError: 0 
+      SitemapIssues: 2 
+      SitemapSummoned: 44 
+      SitemapStored: 44 
+    - name: tdl
+      SitemapCount: 2005 
+      SitemapHttpError: 0 
+      SitemapIssues: 548 
+      SitemapSummoned: 1452 
+      SitemapStored: 1452 
+      HeadlessServerError: 5 
+    - name: aussda
+      SitemapSummoned: 1217 
+      SitemapStored: 1217 
+      SitemapCount: 1235 
+      SitemapHttpError: 0 
+      SitemapIssues: 18 
+    - name: asulrdr
+      SitemapHttpError: 0 
+      SitemapIssues: 20 
+      SitemapSummoned: 56 
+      SitemapStored: 56 
+      SitemapCount: 76 
+    - name: ofd
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: icarda
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: iit
+      SitemapIssues: 107 
+      SitemapSummoned: 9 
+      SitemapStored: 9 
+      SitemapCount: 116 
+      SitemapHttpError: 0 
+    - name: milano
+      SitemapCount: 145 
+      SitemapHttpError: 0 
+      SitemapIssues: 62 
+      SitemapSummoned: 83 
+      SitemapStored: 83 
+    - name: acss
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: ipc
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: neon
+      SitemapCount: 1377 
+      SitemapHttpError: 0 
+      SitemapIssues: 1372 
+      SitemapSummoned: 0 
+      HeadlessServerError: 5 
+    - name: uva
+      SitemapCount: 176 
+      SitemapHttpError: 0 
+      SitemapIssues: 35 
+      SitemapSummoned: 141 
+      SitemapStored: 141 
+    - name: hopkins
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+      SitemapCount: 0 
+    - name: vtti
+      SitemapSummoned: 0 
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+    - name: uwi
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: irs
+      SitemapHttpError: 0 
+      SitemapIssues: 112 
+      SitemapSummoned: 232 
+      SitemapStored: 232 
+      SitemapCount: 344 
+    - name: hord
+      SitemapCount: 554 
+      SitemapHttpError: 0 
+      SitemapIssues: 123 
+      SitemapSummoned: 431 
+      SitemapStored: 431 
+    - name: abacus
+      SitemapHttpError: 0 
+      SitemapIssues: 26 
+      SitemapSummoned: 2314 
+      SitemapStored: 2314 
+      SitemapCount: 2340 
+    - name: nioz
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+    - name: edatos
+      SitemapCount: 720 
+      SitemapHttpError: 0 
+      SitemapIssues: 19 
+      SitemapSummoned: 701 
+      SitemapStored: 701 
+    - name: ibict
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+    - name: arecibo
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: yalenus
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: ucla
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: icrisat
+      SitemapHttpError: 0 
+      SitemapIssues: 9 
+      SitemapSummoned: 425 
+      SitemapStored: 425 
+      SitemapCount: 434 
+    - name: cora
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: unc
+      SitemapIssues: 226 
+      SitemapSummoned: 4637 
+      SitemapStored: 4637 
+      HeadlessServerError: 3 
+      SitemapCount: 4868 
+      SitemapHttpError: 0 
+    - name: harvard
+      SitemapCount: 91350 
+      SitemapHttpError: 0 
+      SitemapIssues: 6209 
+      SitemapSummoned: 85106 
+      SitemapStored: 85111 
+      HeadlessServerError: 13 
+    - name: ucdl
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: cyvers
+      SitemapCount: 1 
+      SitemapHttpError: 0 
+      SitemapIssues: 1 
+      SitemapSummoned: 0 
+    - name: fiu
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+      SitemapCount: 0 
+    - name: rosario
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 73 
+      SitemapStored: 124 
+      SitemapCount: 73 
+    - name: matcommons
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: adf
+      SitemapCount: 793 
+      SitemapHttpError: 0 
+      SitemapIssues: 69 
+      SitemapSummoned: 724 
+      SitemapStored: 724 
+    - name: crossda
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+      SitemapCount: 0 
+    - name: sceincespo
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: chile
+      SitemapHttpError: 0 
+      SitemapIssues: 55 
+      SitemapSummoned: 22 
+      SitemapStored: 22 
+      SitemapCount: 77 
+    - name: lida
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: manitoba
+      SitemapCount: 90 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: cuhk
+      HeadlessServerError: 5 
+      SitemapCount: 209 
+      SitemapHttpError: 0 
+      SitemapIssues: 156 
+      SitemapSummoned: 48 
+      SitemapStored: 48 
+    - name: dryad
+      SitemapCount: 52588 
+      SitemapHttpError: 0 
+      SitemapIssues: 5013 
+      SitemapSummoned: 47533 
+      SitemapStored: 47560 
+      HeadlessServerError: 7 
+    - name: ntu
+      SitemapIssues: 685 
+      SitemapSummoned: 1325 
+      SitemapStored: 1325 
+      HeadlessServerError: 5 
+      SitemapCount: 2015 
+      SitemapHttpError: 0 
+    - name: rin
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: julich
+      SitemapCount: 123 
+      SitemapHttpError: 0 
+      SitemapIssues: 32 
+      SitemapSummoned: 91 
+      SitemapStored: 91 
+    - name: tdi
+      SitemapCount: 41 
+      SitemapHttpError: 0 
+      SitemapIssues: 5 
+      SitemapSummoned: 36 
+      SitemapStored: 36 
+    - name: cifor
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: peking
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: cimmyt
+      SitemapIssues: 14 
+      SitemapSummoned: 946 
+      SitemapStored: 946 
+      SitemapCount: 960 
+      SitemapHttpError: 0 
+    - name: gro
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: drp
+      SitemapCount: 158 
+      SitemapHttpError: 0 
+      SitemapIssues: 153 
+      SitemapSummoned: 0 
+      HeadlessServerError: 4 
+    - name: rsu
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: qdr
+      SitemapHttpError: 0 
+      SitemapIssues: 8 
+      SitemapSummoned: 132 
+      SitemapStored: 132 
+      SitemapCount: 140 
+    - name: wardr
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: iisg
+      SitemapStored: 279 
+      SitemapCount: 334 
+      SitemapHttpError: 0 
+      SitemapIssues: 55 
+      SitemapSummoned: 279 
+    - name: norway
+      SitemapCount: 1280 
+      SitemapHttpError: 0 
+      SitemapIssues: 25 
+      SitemapSummoned: 1255 
+      SitemapStored: 1255 
+    - name: ifdc
+      SitemapSummoned: 388 
+      SitemapStored: 388 
+      SitemapCount: 404 
+      SitemapHttpError: 0 
+      SitemapIssues: 16 
+    - name: borealis
+      SitemapCount: 9353 
+      SitemapHttpError: 0 
+      SitemapIssues: 973 
+      SitemapSummoned: 8375 
+      HeadlessServerError: 5 
+      SitemapStored: 8375 
+    - name: irl
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: netherland
+      SitemapStored: 5877 
+      SitemapCount: 6402 
+      SitemapHttpError: 0 
+      SitemapIssues: 520 
+      SitemapSummoned: 5877 
+      HeadlessServerError: 5 
+    - name: unb
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+      SitemapSummoned: 0 
+    - name: pesquisa
+      SitemapIssues: 9 
+      SitemapSummoned: 2 
+      SitemapStored: 2 
+      SitemapCount: 11 
+      SitemapHttpError: 0 
+    - name: darus
+      SitemapSummoned: 0 
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
+    - name: ifsttar
+      SitemapSummoned: 0 
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 

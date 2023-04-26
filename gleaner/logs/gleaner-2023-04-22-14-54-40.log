@@ -1,0 +1,1 @@
+{"file":"/home/fils/src/Projects/gleaner.io/gleaner/internal/common/minio.go:36","func":"github.com/gleanerio/gleaner/internal/common.MinioConnection","level":"fatal","msg":"Endpoint: :0 does not follow ip address or domain name standards.","time":"2023-04-22T14:54:40-05:00"}

@@ -1,0 +1,3 @@
+level=error contentType="Direct access failed, trying headless']" url="https://cyverse.org/"
+level=error msg="cdp.Runtime: Evaluate: rpc error: Inspected target navigated or closed (code = -32000)" issue="Headless Evaluate" url="https://cyverse.org/"
+level=error msg="cdp.Runtime: Evaluate: rpc error: Inspected target navigated or closed (code = -32000)" issue="converting json ld" url="https://cyverse.org/"

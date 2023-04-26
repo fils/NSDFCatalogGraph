@@ -1,0 +1,6 @@
+level=error contentType="Direct access failed, trying headless']" url="http://datos.pucp.edu.pe/dataverse/iop"
+level=error contentType="Direct access failed, trying headless']" url="http://datos.pucp.edu.pe/dataverse/principal"
+level=error msg="cdp.Runtime: Evaluate: rpc error: Inspected target navigated or closed (code = -32000)" issue="Headless Evaluate" url="http://datos.pucp.edu.pe/dataverse/iop"
+level=error msg="cdp.Runtime: Evaluate: rpc error: Inspected target navigated or closed (code = -32000)" issue="Headless Evaluate" url="http://datos.pucp.edu.pe/dataverse/principal"
+level=error msg="cdp.Runtime: Evaluate: rpc error: Inspected target navigated or closed (code = -32000)" issue="converting json ld" url="http://datos.pucp.edu.pe/dataverse/principal"
+level=error msg="cdp.Runtime: Evaluate: rpc error: Inspected target navigated or closed (code = -32000)" issue="converting json ld" url="http://datos.pucp.edu.pe/dataverse/iop"

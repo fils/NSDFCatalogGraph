@@ -1,0 +1,8 @@
+RunStats:
+  Start: 2023-04-22 14:59:51.493197257 -0500 CDT m=+1.041434615
+  Repositories:
+    - name: arecibo
+      SitemapSummoned: 0 
+      SitemapCount: 0 
+      SitemapHttpError: 0 
+      SitemapIssues: 0 
