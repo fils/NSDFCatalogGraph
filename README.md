@@ -13,3 +13,7 @@ part of the [GleanerIO work](https://github.com/gleanerio)
 
 This formed a small initial KG that was used to explore connections.  
 
+References
+
+* [NSDF-Catalog: Lightweight Indexing Service for Democratizing Data Delivery](https://www.sci.utah.edu/publications/Lue2022a/catalog.pdf)
+* [NSDF-Catalog: Toward a Lightweight Indexing Service for the National Science Data Fabric](https://zenodo.org/record/7161703#.ZEqN_9LMLrX)

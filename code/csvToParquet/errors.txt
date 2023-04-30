@@ -1,0 +1,776 @@
+ERRORS
+
+/mnt/wdb/Data/NSDF/csv/aws-open-data/acoustic-sandbox.csv.gz to /mnt/wdb/Data/NSDF/parquet/aws-open-data/acoustic-sandbox.parquet
+An error occurred:  ("Could not convert '266112' with type str: tried to convert to int64", 'Conversion failed for column size with type object')
+/mnt/wdb/Data/NSDF/csv/aws-open-data/fmi-opendata-radar-volume-hdf5.csv.gz to /mnt/wdb/Data/NSDF/parquet/aws-open-data/fmi-opendata-radar-volume-hdf5.parquet
+An error occurred:  ("Could not convert '1401228' with type str: tried to convert to int64", 'Conversion failed for column size with type object')
+/mnt/wdb/Data/NSDF/csv/aws-open-data/meeo-s5p.csv.gz to /mnt/wdb/Data/NSDF/parquet/aws-open-data/meeo-s5p.parquet
+An error occurred:  Error tokenizing data. C error: Expected 6 fields in line 357882, saw 7
+/mnt/wdb/Data/NSDF/csv/aws-open-data/noaa-gefs-retrospective.csv.gz to /mnt/wdb/Data/NSDF/parquet/aws-open-data/noaa-gefs-retrospective.parquet
+An error occurred:  Error tokenizing data. C error: Expected 6 fields in line 314827, saw 7
+/mnt/wdb/Data/NSDF/csv/aws-open-data/sondehub-history.csv.gz to /mnt/wdb/Data/NSDF/parquet/aws-open-data/sondehub-history.parquet
+An error occurred:  Error tokenizing data. C error: Expected 6 fields in line 688353, saw 10
+/mnt/wdb/Data/NSDF/csv/aws-open-data/zinc3d.csv.gz to /mnt/wdb/Data/NSDF/parquet/aws-open-data/zinc3d.parquet
+An error occurred:  Error tokenizing data. C error: Expected 6 fields in line 2669500, saw 11
+/mnt/wdb/Data/NSDF/csv/cyverse/cyverse.csv.gz to /mnt/wdb/Data/NSDF/parquet/cyverse/cyverse.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column lastmodified with type int64')
+/mnt/wdb/Data/NSDF/csv/dataverse/dataverse.csv.gz to /mnt/wdb/Data/NSDF/parquet/dataverse/dataverse.parquet
+An error occurred:  ('Expected a string or bytes dtype, got float64', 'Conversion failed for column collection with type float64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/10.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/10.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/102.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/102.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/106.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/106.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/109.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/109.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/115.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/115.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/123.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/123.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/124.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/124.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/125.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/125.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/126.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/126.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/127.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/127.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/130.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/130.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/131.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/131.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/15.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/15.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/150.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/150.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/155.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/155.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/16.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/16.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/161.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/161.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/162.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/162.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/164.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/164.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/170.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/170.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/172.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/172.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/174.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/174.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/175.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/175.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/177.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/177.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/178.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/178.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/180.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/180.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/181.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/181.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/182.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/182.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/191.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/191.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/195.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/195.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/192.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/192.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/197.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/197.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/2.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/2.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/206.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/206.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/209.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/209.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/218.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/218.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/220.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/220.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/224.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/224.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/225.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/225.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/227.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/227.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/231.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/231.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/233.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/233.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/235.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/235.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/237.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/237.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/239.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/239.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/242.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/242.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/243.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/243.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/29.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/29.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/39.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/39.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/45.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/45.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/47.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/47.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/50.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/50.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/52.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/52.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/58.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/58.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/59.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/59.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/6.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/6.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/70.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/70.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/75.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/75.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/77.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/77.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/79.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/79.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/8.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/8.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/83.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/83.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/87.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/87.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/9.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/9.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/91.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/91.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/94.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/94.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/95.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/95.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/digitalrocksportal/99.csv.gz to /mnt/wdb/Data/NSDF/parquet/digitalrocksportal/99.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/10.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/10.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/102.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/102.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/106.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/106.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/109.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/109.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/115.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/115.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/118.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/118.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/124.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/124.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/123.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/123.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/125.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/125.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/126.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/126.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/127.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/127.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/130.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/130.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/131.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/131.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/15.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/15.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/150.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/150.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/155.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/155.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/16.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/16.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/161.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/161.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/162.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/162.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/164.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/164.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/170.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/170.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/172.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/172.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/174.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/174.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/175.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/175.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/177.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/177.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/178.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/178.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/180.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/180.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/181.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/181.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/182.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/182.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/191.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/191.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/192.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/192.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/195.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/195.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/197.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/197.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/2.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/2.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/204.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/204.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/209.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/209.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/206.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/206.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/219.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/219.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/218.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/218.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/220.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/220.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/223.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/223.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/224.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/224.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/225.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/225.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/227.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/227.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/228.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/228.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/231.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/231.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/235.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/235.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/233.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/233.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/237.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/237.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/239.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/239.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/242.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/242.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/243.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/243.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/36.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/36.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/29.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/29.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/39.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/39.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/42.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/42.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/45.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/45.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/47.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/47.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/50.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/50.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/52.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/52.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/58.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/58.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/6.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/6.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/59.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/59.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/64.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/64.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/70.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/70.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/75.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/75.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/77.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/77.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/8.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/8.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/79.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/79.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/83.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/83.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/84.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/84.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/87.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/87.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/9.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/9.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/91.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/91.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/94.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/94.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/95.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/95.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mc/99.csv.gz to /mnt/wdb/Data/NSDF/parquet/mc/99.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/0.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/0.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/1.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/1.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/10.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/10.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/103.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/103.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/102.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/102.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/104.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/104.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/105.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/105.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/106.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/106.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/107.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/107.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/109.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/109.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/110.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/110.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/113.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/113.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/114.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/114.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/115.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/115.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/118.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/118.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/12.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/12.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/121.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/121.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/123.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/123.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/124.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/124.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/125.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/125.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/127.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/127.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/128.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/128.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/126.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/126.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/129.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/129.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/13.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/13.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/130.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/130.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/131.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/131.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/135.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/135.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/136.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/136.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/141.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/141.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/140.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/140.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/142.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/142.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/143.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/143.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/144.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/144.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/145.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/145.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/147.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/147.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/148.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/148.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/15.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/15.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/150.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/150.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/155.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/155.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/157.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/157.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/158.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/158.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/159.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/159.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/16.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/16.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/161.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/161.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/162.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/162.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/164.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/164.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/165.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/165.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/166.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/166.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/167.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/167.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/17.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/17.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/170.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/170.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/172.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/172.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/175.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/175.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/174.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/174.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/177.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/177.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/178.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/178.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/179.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/179.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/180.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/180.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/181.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/181.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/182.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/182.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/183.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/183.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/189.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/189.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/190.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/190.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/191.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/191.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/192.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/192.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/195.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/195.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/196.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/196.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/197.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/197.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/199.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/199.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/2.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/2.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/204.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/204.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/205.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/205.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/207.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/207.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/206.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/206.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/209.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/209.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/211.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/211.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/212.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/212.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/213.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/213.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/214.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/214.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/217.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/217.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/218.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/218.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/219.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/219.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/22.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/22.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/220.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/220.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/224.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/224.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/225.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/225.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/227.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/227.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/228.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/228.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/231.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/231.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/233.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/233.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/235.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/235.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/237.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/237.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/239.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/239.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/242.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/242.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/24.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/24.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/243.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/243.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/246.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/246.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/25.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/25.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/256.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/256.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/26.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/26.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/29.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/29.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/3.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/3.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/30.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/30.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/31.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/31.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/32.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/32.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/33.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/33.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/34.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/34.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/36.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/36.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/37.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/37.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/376.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/376.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/375.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/375.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/377.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/377.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/378.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/378.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/38.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/38.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/382.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/382.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/381.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/381.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/384.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/384.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/388.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/388.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/39.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/39.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/400.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/400.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/401.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/401.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/402.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/402.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/403.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/403.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/404.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/404.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/406.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/406.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/407.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/407.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/408.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/408.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/409.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/409.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/41.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/41.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/413.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/413.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/414.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/414.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/415.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/415.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/418.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/418.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/417.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/417.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/42.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/42.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/429.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/429.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/43.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/43.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/438.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/438.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/439.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/439.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/440.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/440.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/441.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/441.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/444.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/444.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/445.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/445.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/446.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/446.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/447.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/447.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/448.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/448.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/449.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/449.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/45.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/45.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/451.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/451.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/457.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/457.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/456.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/456.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/46.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/46.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/437.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/437.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/463.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/463.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/462.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/462.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/464.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/464.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/47.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/47.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/470.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/470.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/476.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/476.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/478.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/478.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/477.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/477.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/473.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/473.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/479.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/479.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/48.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/48.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/483.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/483.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/484.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/484.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/485.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/485.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/487.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/487.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/488.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/488.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/489.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/489.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/490.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/490.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/491.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/491.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/493.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/493.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/492.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/492.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/494.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/494.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/496.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/496.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/497.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/497.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/50.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/50.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/495.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/495.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/508.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/508.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/51.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/51.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/509.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/509.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/52.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/52.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/524.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/524.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/527.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/527.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/53.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/53.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/54.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/54.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/548.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/548.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/550.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/550.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/551.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/551.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/55.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/55.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/511.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/511.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/554.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/554.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/56.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/56.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/571.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/571.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/574.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/574.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/576.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/576.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/58.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/58.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/59.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/59.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/583.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/583.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/592.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/592.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/6.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/6.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/601.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/601.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/602.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/602.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/608.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/608.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/64.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/64.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/65.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/65.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/66.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/66.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/69.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/69.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/70.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/70.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/74.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/74.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/73.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/73.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/63.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/63.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/7.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/7.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/77.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/77.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/57.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/57.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/8.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/8.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/75.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/75.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/79.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/79.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/83.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/83.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/84.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/84.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/80.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/80.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/9.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/9.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/90.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/90.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/94.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/94.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/96.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/96.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/87.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/87.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/97.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/97.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/95.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/95.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/474.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/474.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/99.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/99.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/mdf/91.csv.gz to /mnt/wdb/Data/NSDF/parquet/mdf/91.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column collection with type int64')
+/mnt/wdb/Data/NSDF/csv/ranch/ranch.csv.gz to /mnt/wdb/Data/NSDF/parquet/ranch/ranch.parquet
+An error occurred:  ('Expected a string or bytes dtype, got int64', 'Conversion failed for column etag with type int64')
