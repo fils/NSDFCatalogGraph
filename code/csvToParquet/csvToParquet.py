@@ -16,7 +16,11 @@ csv_column_list = ['repository', 'collection', 'name', 'size', 'lastmodified', '
 
 # set the directory path you want to process
 fps = []
+
+# hard coded path to the source cvs tree.
+# will update this to a cli parameter and add in some other options.
 dp = "/mnt/wdb/Data/NSDF/csv"
+
 
 # recursively search the directory and its subdirectories for files
 for root, directories, files in os.walk(dp):

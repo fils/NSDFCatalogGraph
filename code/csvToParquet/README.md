@@ -6,6 +6,12 @@ This is just a simple bit code to convert the .csv.gz files I got from
 the catalog into a set of parquet files.  These can then be fronted
 with Arrow or DuckDB etc.  
 
+The resulting files are too large for GitHUb
+
+There are some errors in processing the files.  These can be found
+in [errors.txt](./errors.txt).  They are mostly type errors in mapping 
+the schema, but I have not looked at them closely.
+
 ## CSV Schemas
 
 This is the eventual schema these data seem destined for 

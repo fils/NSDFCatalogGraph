@@ -1,7 +1,7 @@
 # More Details
 
 
-There are 65 sources in the current Glaner config file generated from the sources listed at: https://nationalsciencedatafabric.org/catalog3d.html
+There are 65 sources in the current Gleaner config file generated from the sources listed at: https://nationalsciencedatafabric.org/catalog3d.html
 
 Of these, 32 don't have obvious sitemaps in the default path.  This doesn't mean they don't exist, some additional searching may find more in other locations.
 
