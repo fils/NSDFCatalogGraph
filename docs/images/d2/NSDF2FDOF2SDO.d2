@@ -1,0 +1,121 @@
+direction: right
+
+fdo: Fair Digital Objects {
+  id: PID {
+    width: 100
+    height: 50
+  }
+  kip: Kernel Information \nProfile {
+    width: 150
+    height: 50
+  }
+  dol: Digital Object\n Location {
+    width: 150
+    height: 50
+  }
+  dot: Digital Object\n Type {
+    width: 150
+    height: 50
+  }
+  etag: etag {
+    width: 150
+    height: 50
+  }
+  dop: Digital Object\n Policy {
+    width: 150
+    height: 50
+  }
+  datec: Date Created {
+    width: 150
+    height: 50
+  }
+}
+
+nsdf: NSDF {
+
+  name {
+    width: 100
+    height: 50
+  }
+  repository {
+    width: 100
+    height: 50
+  }
+  collection {
+    width: 100
+    height: 50
+  }
+
+  size {
+    width: 100
+    height: 50
+  }
+  etag {
+    width: 100
+    height: 50
+  }
+  last_modified {
+    width: 100
+    height: 50
+  }
+
+}
+
+nsdf -> fdo.kip {
+  style.stroke-dash: 3
+}
+nsdf.repository -> fdo.dol
+nsdf.collection -> fdo.dol
+nsdf.name -> fdo
+# nsdf.size ->
+nsdf.etag -> fdo.etag
+nsdf.last_modified -> fdo.datec
+
+sdo: Schema.org Dataset
+sdo.id: "question: \n @id if for MD record \n OR \nindentifier if for resource"
+sdo.conformsTo: conformsTo from pub-context
+
+fdo.id -> sdo.id
+fdo.kip -> sdo.conformsTo
+fdo.dol -> sdo.distribution
+fdo.dot -> sdo.encoding.MediaObject.encodingFormat
+fdo.dop -> sdo.publishingPrinciples
+fdo.etag -> sdo.encoding.MediaObject.sha256
+fdo.datec -> sdo.dateCreated
+
+
+doc: |json
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "@id": "https://example.org/id/xyz",
+  "@type": "DigitalDocument",
+  "conformsTo": "https://example.org/cdifspec",
+  "producer": "mdf",
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "https://registry.identifiers.org/registry/ark",
+    "value": "ark:/99152/t3v4yo3eeqepj0",
+    "url": "https://vocabularyserver.com/cnr/ml/snowterm/en/?ark=ark:/99152/t3v4yo3eeqepj0"
+  }
+  "publishingPrinciples": [
+    {
+      "@type": "CreativeWork",
+      "url": "https://example.org/id/policy",
+      "name": "Digital Object Policy",
+      "description": "A description of the digital object policy"
+    }
+  ],
+  "encoding": {
+    "@type": "MediaObject",
+    "sha256": "51354fb5a484e5304de72393fc2d0df7e4fea33396bf8671527aa1b36294a871b2c63035a69d723555c7277e77b24f8ab7a7eacf9a6fc535f933930a258eb49a",
+    "contentSize": 687
+  },
+  "distribution": "https://example.org/datasets/1234567890",
+  "dateModified": "2010-02-03"
+}
+|
+
+sdo -> doc

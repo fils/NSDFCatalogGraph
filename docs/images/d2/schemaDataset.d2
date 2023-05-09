@@ -1,0 +1,84 @@
+direction: right
+
+
+nsdf: NSDF
+nsdf.repository {
+  width: 100
+  height: 50
+}
+nsdf.collection {
+  width: 100
+  height: 50
+}
+nsdf.name {
+  width: 100
+  height: 50
+}
+nsdf.size {
+  width: 100
+  height: 50
+}
+nsdf.etag {
+  width: 100
+  height: 50
+}
+
+
+sdo: Schema.org \n Dataset
+sdo.provider: provider {
+  width: 100
+  height: 50
+}
+sdo.catalog: includedInDataCatalog {
+  width: 100
+  height: 50
+}
+sdo.name: name {
+  width: 100
+  height: 50
+  style.fill: pink
+}
+sdo.size: MediaObject \n contentSize {
+  width: 100
+  height: 50
+}
+sdo.hash: MediaObject\n sha256 {
+  width: 100
+  height: 50
+}
+sdo.description:  description {
+  width: 100
+  height: 50
+  style.fill: pink
+}
+
+
+nsdf.repository -> sdo.provider
+nsdf.collection -> sdo.catalog
+nsdf.name -> sdo.name
+nsdf.size -> sdo.size
+nsdf.etag -> sdo.hash
+
+
+
+doc: |json
+
+{
+  "@context": {"@vocab": "https://schema.org/"},
+  "@type": "Dataset",
+  "@id": "https://example.org/datasets/1234567890",
+  "identifier": "doi:10.1234/1234567890",
+  "name": "Removal of organic carbon by natural
+      bacterioplankton communities as a function of pCO2
+      from laboratory experiments between 2012 and 2016",
+  "encoding" {
+     "@type": "MediaObject",
+     "sha256": "sha value"
+   }
+  "description": "A description between 50 and 5000 characters.",
+  "url": "https://example.org/datasets/1234567890",
+  "license": "CC-BY-4.0",
+}
+|
+
+sdo -> doc: represented by

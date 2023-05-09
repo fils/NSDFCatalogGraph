@@ -1,0 +1,97 @@
+direction: right
+
+fsp: Fair Signposting
+
+fsp.collection {
+  width: 100
+  height: 50
+}
+
+fsp.author {
+  width: 100
+  height: 50
+}
+fsp.item {
+  width: 100
+  height: 50
+}
+fsp.cite-as {
+  width: 100
+  height: 50
+}
+fsp.describedby {
+  width: 100
+  height: 50
+}
+fsp.type {
+  width: 100
+  height: 50
+}
+fsp.license {
+  width: 100
+  height: 50
+}
+
+
+
+nsdf: NSDF
+
+nsdf.repository {
+  width: 100
+  height: 50
+}
+nsdf.collection {
+  width: 100
+  height: 50
+}
+nsdf.name {
+  width: 100
+  height: 50
+}
+nsdf.size {
+  width: 100
+  height: 50
+}
+nsdf.etag {
+  width: 100
+  height: 50
+}
+
+nsdf.repository -> fsp.collection
+nsdf.collection -> fsp.collection
+nsdf.name -> fsp.item
+
+nsdf.repository -> fsp.author:  Is this acceptable? {
+  style: {
+    opacity: 0.4
+    stroke: red
+  }
+}
+
+nsdf -> fsp.cite-as: build citation from \n existing data (ref ESIP style) {
+  style: {
+    opacity: 0.4
+    stroke: red
+  }
+}
+
+nsdf -> fsp.describedby: LOD pointer back to \n metadata record (doable) {
+  style: {
+    opacity: 0.4
+    stroke: red
+  }
+}
+
+nsdf -> fsp.license: default that \n can be presented? {
+  style: {
+    opacity: 0.4
+    stroke: red
+  }
+}
+
+nsdf -> fsp.type:  0th order just pull from mime \n or a provider may know a \n profile? {
+  style: {
+    opacity: 0.4
+    stroke: red
+  }
+}

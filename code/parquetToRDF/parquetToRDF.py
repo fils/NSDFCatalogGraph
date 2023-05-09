@@ -22,17 +22,27 @@ def myloader(*args, **kwargs):
 def generate_json_ld(repository, collection, name, size, lastmodified, etag):
     # Create a dictionary representing the JSON-LD object
 
-    context = {
-        "@vocab": "http://schema.org/",
-        "name": "name",
-        "description": "description",
-        "url": "url"
-    }
+    # context = {
+    #     "@vocab": "http://schema.org/",
+    #     "name": "name",
+    #     "description": "description",
+    #     "url": "url"
+    # }
+
+    context =  [
+        "https://schema.org",
+        "https://www.w3.org/ns/pub-context"
+    ]
+
 
     json_ld = {
-        "@context": {"@vocab": "https://schema.org/"},
+        "@context": [
+        "https://schema.org",
+        "https://www.w3.org/ns/pub-context"
+        ],
         "@type": "DigitalDocument",
         # "@id": "https://example.org/datasets/1234567890",
+        "conformsTo": "https://example.com/cdifspec",
         "name": name,
         "producer": repository,
         "isPartOf": collection,

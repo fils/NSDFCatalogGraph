@@ -1,0 +1,55 @@
+direction: right
+
+fdo: Fair Digital Objects
+fdo.id: Object identifier {
+  width: 100
+  height: 50
+}
+fdo.ol: Object location {
+  width: 100
+  height: 50
+}
+fdo.type: FDO Type {
+  width: 100
+  height: 50
+}
+fdo.schema: Schema of object {
+  width: 100
+  height: 50
+}
+fdo.meta: Metadata items {
+  width: 100
+  height: 50
+}
+fdo.metaschema: Schema of metadata items {
+  width: 100
+  height: 50
+}
+
+nsdf: NSDF
+nsdf.repository {
+  width: 100
+  height: 50
+}
+nsdf.collection {
+  width: 100
+  height: 50
+}
+nsdf.name {
+  width: 100
+  height: 50
+}
+nsdf.size {
+  width: 100
+  height: 50
+}
+nsdf.etag {
+  width: 100
+  height: 50
+}
+
+nsdf.repository -> fdo.ol
+nsdf.collection -> fdo.ol
+nsdf.name -> fdo.id
+# nsdf.size ->
+nsdf.etag -> fdo.id
