@@ -1,0 +1,30 @@
+{
+    "@context": [
+      "https://schema.org",
+      "https://www.w3.org/ns/pub-context"
+    ],
+    "@id": "https://example.org/id/xyz",
+    "@type": "DigitalDocument",
+    "conformsTo": "https://example.org/cdifspec",
+    "producer": "mdf",
+    "identifier": {
+      "@type": "PropertyValue",
+      "propertyID": "https://registry.identifiers.org/registry/ark",
+      "url": "https://vocabularyserver.com/cnr/ml/snowterm/en/?ark=ark:/99152/t3v4yo3eeqepj0"
+    },
+    "publishingPrinciples": [
+      {
+        "@type": "CreativeWork",
+        "url": "https://example.org/id/policy",
+        "name": "Digital Object Policy",
+        "description": "A description of the digital object policy"
+      }
+    ],
+    "encoding": {
+      "@type": "MediaObject",
+      "sha256": "51354fb5a484e5304de72393fc2d0df7e4fea33396bf8671527aa1b36294a871b2c63035a69d723555c7277e77b24f8ab7a7eacf9a6fc535f933930a258eb49a",
+      "contentSize": 687
+    },
+    "distribution": "https://example.org/datasets/1234567890",
+    "dateModified": "2010-02-03"
+  }
