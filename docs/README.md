@@ -1,6 +1,8 @@
 # More Details
 
 
+## About
+
 There are 65 sources in the current Gleaner config file generated from the sources listed at: https://nationalsciencedatafabric.org/catalog3d.html
 
 Of these, 32 don't have obvious sitemaps in the default path.  This doesn't mean they don't exist, some additional searching may find more in other locations.
@@ -15,3 +17,10 @@ A first pass of indexing across those 30 I was able to locate 163K resources exp
 
 This is just a tiny fraction of the resources that make up the NSDF-Catalog. The goal of this work is look at how
 to connect the catalog to the more detailed KG graphs.
+
+
+## References
+
+* https://zenodo.org/record/8009739
+
+

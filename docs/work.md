@@ -102,6 +102,11 @@ A draft mapping from NSDF to FDO to schema.org can be seen below with draft conn
 
 It would be a good exercise to explore mapping these connections via something like SSSOM (https://github.com/mapping-commons/SSSOM).  
 
+
+#### References
+
+* [FDO–Kernel Attributes & Metadata Version 2.1](https://zenodo.org/record/8009739)
+
 ### Activity 3:  Profile alignment and KG completion
 Building on the data model work in Activity 2, we can begin to review connections to domain models like those used in DeCODER or OIH.   In order to do this we may need to augment data either or both of the parties data holdings, perhaps through file inspection to get at things such as variable, spatial or temporal properties. It would be work inspecting the provider list at https://nationalsciencedatafabric.org/catalog3d.html to generate a feel for the landscapes use of structure data already.
 

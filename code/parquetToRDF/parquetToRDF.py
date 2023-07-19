@@ -41,25 +41,16 @@ def generate_json_ld(repository, collection, name, size, lastmodified, etag):
         "https://www.w3.org/ns/pub-context"
         ],
         "@type": "DigitalDocument",
-        # "@id": "https://example.org/datasets/1234567890",
         "conformsTo": "https://example.com/cdifspec",
         "name": name,
         "producer": repository,
         "isPartOf": collection,
         "publishingPrinciples": [
             {
-                "@type": "CreativeWork",
-                "@id": "https://sdgs.un.org/goals/goal14",
-                "url": "https://sdgs.un.org/goals/goal14",
-                "name": "Kernel Information Profile",
-                "description": " description"
-            },
-            {
-                "@type": "CreativeWork",
-                "@id": "https://dx.doi.org/10.1038/sdata.2016.18",
-                "url": "https://www.nature.com/articles/sdata201618",
-                "name": "Digital Obkect Policy",
-                "description": " description"
+            "@type": "CreativeWork",
+            "url": "https://example.org/id/policy",
+            "name": "Digital Object Policy",
+            "description": "A description of the digital object policy"
             }
         ],
         "encoding": {
